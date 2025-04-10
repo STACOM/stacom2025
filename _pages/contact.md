@@ -13,6 +13,9 @@ header:
 3. Oscar Camara, Universitat Pompeu Fabra, Spain
 4. Esther Puyol Antón, King's College London, United Kingdom / HeartFlow, Inc.
 5. Qian Tao, Delft University of Technology, the Netherlands
-6. Avan Suinesiaputra, King's College London, United Kingdom
+6. Charlène Mauger, King's College London, United Kingdom
+7. Rasmus Paulsen, Danmarks Tekniske Universitet, Denmark
+8. Marta Varela, St George’s University of London, United Kingdom
+9. YingLiang Ma, University of East Anglia, United Kingdom
 
 Contact: stacom@inria.fr
