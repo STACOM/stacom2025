@@ -22,7 +22,11 @@ We accept regular papers describing new methods in the following (not limited) t
 
 We require authors to create an abstract submission as a placeholder before the full submission. The abstract minimally consists of the preliminary **title**, **authors**, **affiliations**, and **outline** of your paper. You do not need to include the final results in the abstract. You are also allowed to modify the title, authors and affiliations during the full submission.
 
-Note for a paper submitted as a challenge, you still need to submit a placeholder abstract in the STACOM2025 submission portal, even if the abstract is still empty. You **must to select the type of paper submission as the challenge paper**. Dates for the abstract submission deadlines for a challenge paper should follow the challenge deadline.
+Select the type of paper as either:
+* **Standard** for a regular paper, or
+* **CMRxRecon** for the CMRxRecon challenge paper
+
+Note for a paper submitted as a challenge, you still need to submit a placeholder abstract in the STACOM2025 submission portal, even if the abstract is still empty. Please follow the deadlines and regulations defined on the challenge website.
 
 ## Full submission
 
