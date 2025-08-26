@@ -29,7 +29,13 @@ Current submission clock:
 {: .text-justify}
 The **Statistical Atlases and Computational Modeling of the Heart (STACOM)** workshop has been running annually at MICCAI since 2010. The 16th edition of STACOM workshop is going to be held in conjunction with the [MICCAI 2025](https://conferences.miccai.org/2025/en/) in Daejeon, Republic of Korea. The STACOM workshop is aiming to create a collaborative forum for young/senior researchers (engineers, biophysicists, mathematicians) and clinicians, working on: statistical analysis of cardiac morphology and dynamics, computational modelling of the heart and fluid dynamics, data/models sharing, personalisation of cardiac electro-mechanical models, quantitative image analysis and translational methods into clinical practice.
 
+<!-- 
 <div style="text-align: center;"><a href="https://Meteor.Springer.com/STACOM2025" target="_blank" class="btn btn--info btn--large" style="margin-top: 10px; padding-left: 50px; padding-right: 50px;">Submit Your Paper</a></div>
+ -->
+
+## Keynote speaker
+
+{% include Hyun %}
 
 ## Challenges
 
