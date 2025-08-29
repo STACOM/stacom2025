@@ -11,22 +11,22 @@
 </div>
 
 1. <span style="border: thin solid #b22222; border-radius: 5px; color: #b22222; padding: 2px;">🗣️</span> **Active Learning for Deep Learning-Based Hemodynamic Parameter Estimation**
-<br/>Rygiel, P., Suk, J., Yeung, K., Brune, C., Wolterink, J.
+<br/>Rygiel, P., Suk, J., Yeung, K., Brune, C., and Wolterink, J.
 
 1. <span style="border: thin solid #b22222; border-radius: 5px; color: #b22222; padding: 2px;">🗣️</span> **LGESynthNet: Controlled Scar Synthesis for Improved Scar Segmentation in Cardiac LGE-MRI Imaging**
-<br/>Jacob, A., Sharma, P., Rueckert, D.
+<br/>Jacob, A., Sharma, P., and Rueckert, D.
 
 1. <span style="border: thin solid #b22222; border-radius: 5px; color: #b22222; padding: 2px;">🗣️</span> **A comprehensive Pipeline for Aortic Segmentation and Shape Analysis**
-<br/>Shehata, N., Elsawy, A., Nagy, M., ElMahdy, M., Ali, M., Romeih, S., Aguib, H., Yacoub, M., Glocker, B.
+<br/>Shehata, N., Elsawy, A., Nagy, M., ElMahdy, M., Ali, M., Romeih, S., Aguib, H., Yacoub, M., and Glocker, B.
 
 1. <span style="border: thin solid #b22222; border-radius: 5px; color: #b22222; padding: 2px;">🗣️</span> **Fast multi-label parameterization of the left atrium by learned template morphing**
-<br/>Castaneda, E., Raghunath, A., Meister, F., Weiss, M., Mihalef, V., Ashikaga, H., Maier, A., Passerini, T., Lluch, È.
+<br/>Castaneda, E., Raghunath, A., Meister, F., Weiss, M., Mihalef, V., Ashikaga, H., Maier, A., Passerini, T., and Lluch, È.
 
 1. <span style="border: thin solid #b22222; border-radius: 5px; color: #b22222; padding: 2px;">🗣️</span> **Groupwise Registration with Physics-Informed Test-Time Adaptation on Multi-parametric Cardiac MRI**
-<br/>Li, X., Zhang, Y., Huang, L., Chang, H., Niendorf, T., Ku, M., Tao, Q., Yang, H.
+<br/>Li, X., Zhang, Y., Huang, L., Chang, H., Niendorf, T., Ku, M., Tao, Q., and Yang, H.
 
 1. <span style="border: thin solid #b22222; border-radius: 5px; color: #b22222; padding: 2px;">🗣️</span> **Comprehensive 4D flow MRI characterization of left atrial hemodynamic flow components in hypertension and hypertrophic cardiomyopathy**
-<br/>Casademunt, P., Morales, X., Elsayed, A., Zhao, D., Loncaric, F., Quill, G., Ramos, M., Doltra, A., Sitges, M., Lowe, B., Young, A., Nash, M., Camara, O. 
+<br/>Casademunt, P., Morales, X., Elsayed, A., Zhao, D., Loncaric, F., Quill, G., Ramos, M., Doltra, A., Sitges, M., Lowe, B., Young, A., Nash, M., and Camara, O. 
 
 1. **A Clinically-Informed Benchmark for Topology-Aware Coronary Artery Segmentation**
 <br/>Acebes, C., Galdran, A., Moustafa, A., Clapers, M., and Camara, O.
