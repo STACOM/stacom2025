@@ -1,9 +1,11 @@
 {: .notice--info}
 <div style="text-align: center; margin-bottom: 1em;">
 
-All accepted papers must be presented as a poster during the workshop. 
-Some papers are selected for an oral presentation: <span style="border: thin solid #b22222; border-radius: 5px; color: #b22222; padding: 2px;">🗣️</span>.
-Poster format must follow the same <a href="https://conferences.miccai.org/2025/en/MAIN-CONFERENCE-PRESENTATION-INSTRUCTIONS.html" target="_blank">MICCAI guideline about poster presentation</a>.
+<strong><font size="+2">Important information:</font></strong>
+
+* All accepted papers must be presented as a poster during the workshop. 
+* Some papers are selected for an oral presentation: <span style="border: thin solid #b22222; border-radius: 5px; color: #b22222; padding: 2px;">🗣️</span>.
+* Poster format must follow the same <a href="https://conferences.miccai.org/2025/en/MAIN-CONFERENCE-PRESENTATION-INSTRUCTIONS.html" target="_blank">MICCAI guideline about poster presentation</a>.
 
 </div>
 
