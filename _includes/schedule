@@ -1,3 +1,15 @@
 {: .notice--info}
-
-COMING SOON
+| 08:00-08:10 | Welcome |
+| 08:10-08:45 | **Keynote: Biomechanics modeling enhanced by AI**<br>Associate Professor Hyun Jin Kim, KAIST |
+| | **Oral Session 1** |
+| 08:45-09:00 | Active Learning for Deep Learning-Based Hemodynamic Parameter Estimation<br>*Rygiel, P., Suk, J., Yeung, K., Brune, C., Wolterink, J.* |
+| 09:00-09:15 | LGESynthNet: Controlled Scar Synthesis for Improved Scar Segmentation in Cardiac LGE-MRI Imaging<br>*Jacob, A., Sharma, P., Rueckert, D.* |
+| 09:15-09:30 | A comprehensive Pipeline for Aortic Segmentation and Shape Analysis<br>*Shehata, N., Elsawy, A., Nagy, M., ElMahdy, M., Ali, M., Romeih, S., Aguib, H., Yacoub, M., Glocker, B.* |
+| 09:30-09:45 | Fast multi-label parameterization of the left atrium by learned template morphing<br>*Castaneda, E., Raghunath, A., Meister, F., Weiss, M., Mihalef, V., Ashikaga, H., Maier, A., Passerini, T., Lluch, È.* |
+| 09:45-10:00 | Groupwise Registration with Physics-Informed Test-Time Adaptation on Multi-parametric Cardiac MRI<br>*Li, X., Zhang, Y., Huang, L., Chang, H., Niendorf, T., Ku, M., Tao, Q., Yang, H.* |
+| 10:00-10:30 | *Coffee break* |
+| | **Oral Session 2** |
+| 10:30-10:45 | Comprehensive 4D flow MRI characterization of left atrial hemodynamic flow components in hypertension and hypertrophic cardiomyopathy<br>*Casademunt, P., Morales, X., Elsayed, A., Zhao, D., Loncaric, F., Quill, G., Ramos, M., Doltra, A., Sitges, M., Lowe, B., Young, A., Nash, M., Camara, O.* |
+| 10:45-11:15 | **Poster teaser** |
+| 11:15-12:15 | **Poster session** (see [list of accepted papers]({{ "papers" | relative_url }})) |
+| 12:15-12:30 | Closing |

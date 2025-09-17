@@ -37,6 +37,10 @@ The **Statistical Atlases and Computational Modeling of the Heart (STACOM)** wor
 
 {% include Hyun %}
 
+## Schedule
+
+{% include schedule %}
+
 ## Challenges
 
 {% include challenge.html 
