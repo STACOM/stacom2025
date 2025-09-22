@@ -33,15 +33,13 @@ The **Statistical Atlases and Computational Modeling of the Heart (STACOM)** wor
 <div style="text-align: center;"><a href="https://Meteor.Springer.com/STACOM2025" target="_blank" class="btn btn--info btn--large" style="margin-top: 10px; padding-left: 50px; padding-right: 50px;">Submit Your Paper</a></div>
  -->
 
-## Keynote speaker
+#### Keynote speaker
 
 {% include Hyun %}
 
-## Schedule
+#### Morning Schedule
 
 {% include schedule %}
-
-## Challenges
 
 {% include challenge.html 
 title="CMRxRecon2025 Challenge" 
@@ -49,4 +47,6 @@ url="https://cmrxrecon.github.io/2025/Home.html"
 image="/images/cmrxrecon2025.png" 
 description="The objective of establishing the CMRx series challenges is to provide a benchmark that enables the research community to contribute to the work of accelerated CMR imaging with universal approaches that allow more diverse applications and better performance in real-world deployment in various environments. The previous CMRxRecon2023 and CMRxRecon2024 dataset did not cover multi-center, multi-vendor, and multiple diseases. Therefore, this year we aim to make an important leap towards real-world clinical scenarios. " %}
 
+#### Afternoon Schedule
 
+{% include schedule_cmrxrecon %}

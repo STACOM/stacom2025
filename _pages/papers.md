@@ -13,4 +13,6 @@ header:
 
 {% include regular %}
 
+## CMRxRecon2025 challenge papers
 
+{% include cmrxrecon %}
