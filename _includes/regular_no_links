@@ -1,0 +1,92 @@
+{: .notice--info}
+<div style="text-align: left; margin-bottom: 1em;">
+
+<font size="+1"><strong>Important information:</strong>
+<ul>
+<li> All accepted papers must be presented as a poster during the workshop. </li>
+<li> Some papers are selected for an oral presentation: <span style="border: thin solid #b22222; border-radius: 5px; color: #b22222; padding: 2px;">🗣️</span> </li>
+<li> Poster format must follow the same <a href="https://conferences.miccai.org/2025/en/MAIN-CONFERENCE-PRESENTATION-INSTRUCTIONS.html" target="_blank">MICCAI guideline about poster presentation</a>. </li>
+</ul>
+</font>
+</div>
+
+1. <span style="border: thin solid #b22222; border-radius: 5px; color: #b22222; padding: 2px;">🗣️</span> **Active Learning for Deep Learning-Based Hemodynamic Parameter Estimation**
+<br/>Rygiel, P., Suk, J., Yeung, K., Brune, C., and Wolterink, J.
+
+1. <span style="border: thin solid #b22222; border-radius: 5px; color: #b22222; padding: 2px;">🗣️</span> **LGESynthNet: Controlled Scar Synthesis for Improved Scar Segmentation in Cardiac LGE-MRI Imaging**
+<br/>Jacob, A., Sharma, P., and Rueckert, D.
+
+1. <span style="border: thin solid #b22222; border-radius: 5px; color: #b22222; padding: 2px;">🗣️</span> **A comprehensive Pipeline for Aortic Segmentation and Shape Analysis**
+<br/>Shehata, N., Elsawy, A., Nagy, M., ElMahdy, M., Ali, M., Romeih, S., Aguib, H., Yacoub, M., and Glocker, B.
+
+1. <span style="border: thin solid #b22222; border-radius: 5px; color: #b22222; padding: 2px;">🗣️</span> **Fast multi-label parameterization of the left atrium by learned template morphing**
+<br/>Castaneda, E., Raghunath, A., Meister, F., Weiss, M., Mihalef, V., Ashikaga, H., Maier, A., Passerini, T., and Lluch, È.
+
+1. <span style="border: thin solid #b22222; border-radius: 5px; color: #b22222; padding: 2px;">🗣️</span> **Groupwise Registration with Physics-Informed Test-Time Adaptation on Multi-parametric Cardiac MRI**
+<br/>Li, X., Zhang, Y., Huang, L., Chang, H., Niendorf, T., Ku, M., Tao, Q., and Yang, H.
+
+1. <span style="border: thin solid #b22222; border-radius: 5px; color: #b22222; padding: 2px;">🗣️</span> **Comprehensive 4D flow MRI characterization of left atrial hemodynamic flow components in hypertension and hypertrophic cardiomyopathy**
+<br/>Casademunt, P., Morales, X., Elsayed, A., Zhao, D., Loncaric, F., Quill, G., Ramos, M., Doltra, A., Sitges, M., Lowe, B., Young, A., Nash, M., and Camara, O. 
+
+1. **A Clinically-Informed Benchmark for Topology-Aware Coronary Artery Segmentation**
+<br/>Acebes, C., Galdran, A., Moustafa, A., Clapers, M., and Camara, O.
+
+1. **KP-INR: A Dual-Branch Implicit Neural Representation Model for Cartesian Cardiac Cine MRI Reconstruction**
+<br/>Lyu, D., Staring, M., Doneva, M., Lamb, H., and Pezzotti, N.
+
+1. **Scalable Automated Framework for Left Atrial Appendage Segmentation, Clustering, and CFD Analysis**
+<br/>Raghunath, A., Castaneda, E., Jacob, A., Weiss, M., Passerini, T., Mihalef, V., Voigt, I., Maier, A., and Lluch, È.
+
+1. **Semantic Segmentation for Preoperative Planning in Transcatheter Aortic Valve Replacement**
+<br/>Zöllner, C., Reiß, S., Jaus, A., Sholi, A., Sodian, R., and Stiefelhagen, R.
+
+1. **Medical SAM for Cardiac Segmentation: Promise or hype?**
+<br/>Goujat, C., Jodoin, P., Boussel, L., and Bernard, O.
+
+1. **Implicit Neural Representations of Intramyocardial Motion and Strain**
+<br/>Bell, A., King, A., Choi, Y., Petersen, S., Nazir, S., and Young, A.
+
+1. **openCARP-PINNs**
+<br/>Zolotarev, A., Ip, S., Vydyula, K., Dhillon, B., Martín, C., Misghina, S., and Roney, C.
+
+1. **Automated CT-derived Fractional Flow Reserve using Vision Transformers and Computational Fluid Dynamics**
+<br/>Fossan, F., Larsen, M., Bråten, A., Jensen, S., Mogen, S., Jørgensen, A., Hellevik, L., Wiseth, R., Kiss, G., and Lindseth, F.
+
+1. **3D Reconstruction of Coronary Vessel Trees from Biplanar X-Ray Images Using a Geometric Approach**
+<br/>Koland, E., Xi, L., Wijesuriya, N., and Ma, Y.
+
+1. **Construction of a Bi-Atrial Statistical Shape Atlas for In-Silico Population Studies**
+<br/>Misghina, S., Zolotarev, A., Rauseo, E., Slabaugh, G., Aung, N., Munroe, P., Petersen, S., and Roney, C.
+
+1. **Adaptive k-space Radial Sampling for Cardiac MRI with Reinforcement Learning**
+<br/>Xu, R. and Oksuz, I.
+
+1. **Cardiovascular disease classification using radiomics and geometric features from cardiac CT Images**
+<br/>Mittal, A., Mehta, R., Todd, O., Seeboeck, P., Langs, G., and Glocker, B.
+
+1. **TASSNet: A Deep Learning Framework for Robust Bi-Atrial Segmentation in 3D LGE-MRI of Atrial Fibrillation**
+<br/>Gunawardhana, M., Trew, M., Sands, G., and Zhao, J.
+
+1. **Generating Synthetic Contrast-Enhanced Chest CT Images from Non-Contrast Scans Using a Slice-Consistent Bridge Diffusion Network**
+<br/>Shiri, P., Yi, X., Mistry, N., Javadinia, S., Chegini, M., Ko, S., Baniasadi, A., and Adams, S.
+
+1. **A public cardiac CT dataset featuring the left atrial appendage**
+<br/>Hansen, B., Pedersen, J., Kofoed, K., Camara, O., Paulsen, R., and Sørensen, K.
+
+1. **Voronoi-based myocardial perfusion region prediction enhanced by GCN**
+<br/>Srir, M., Sallé de Chou, R., Lynch, S., Talbot, H., Najman, L., Sinclair, M., and Vignon-Clementel, I.
+
+1. **Radiomics for Predicting TAVI-related Complications: A Fully-Automatic, Interpretable Alternative to CNNs and Conventional Anatomical Measurements**
+<br/>Krüger, N., Brosig, J., Laube, A., Ivantsits, M., Hüllebrand, M., Wamala, I., Khasyanova, I., Kempfert, J., Meyer, A., Sündermann, S., Dreger, H., Falk, V., Kühne, T., and Hennemuth, A.
+
+1. **Relative Influence of Hypercoagulability, Left Atrial Appendage Geometry, and Pulmonary Vein Velocity on Thrombus Formation**
+<br/>Melidoro, P., Cavarra, R., Klis, M., Lip, G., Williams, S., Aslanidi, O., and De Vecchi, A.
+
+1. **Enhanced Stroke Risk Stratification of Atrial Fibrillation Patients Using Explainable Machine Learning**
+<br/>Cavarra, R., Ogbomo-Harmitt, S., Melidoro, P., Williams, S., De Vecchi, A., King, A., and Aslanidi, O.
+
+1. **Machine learning highlights left atrial fibrotic heterogeneity as a key predictor of atrial fibrillation inducibility**
+<br/>Obada, G., Ogbomo-Harmitt, S., Deprez, M., and Aslanidi, O.
+
+1. **Deep Learning-Based Segmentation of 3D Left Atrial Meshes from Electroanatomical Mapping: Left Atrium Mesh Segmentation**
+<br/>Mancebo-Laguna, I., Alonso P.Á., Sánchez, R.G., Pérez, M.M., Gómez, M.A., Carta-Bergaz, A., Atienza, F., Arenal, Á., and Ríos-Muñoz G.R.
