@@ -33,6 +33,26 @@ The **Statistical Atlases and Computational Modeling of the Heart (STACOM)** wor
 <div style="text-align: center;"><a href="https://Meteor.Springer.com/STACOM2025" target="_blank" class="btn btn--info btn--large" style="margin-top: 10px; padding-left: 50px; padding-right: 50px;">Submit Your Paper</a></div>
  -->
 
+### Awards
+
+Congratulations to **Paula Casademunt** from Universiteit Pompeu Fabra, Spain, for receiving **Best Oral Presentation** for his paper:
+
+{: .notice--success}
+<div>
+<span style="font-size:150%;">Comprehensive 4D flow MRI characterization of left atrial hemodynamic flow components in hypertension and hypertrophic cardiomyopathy</span><br>
+<span style="font-size:125%;">Casademunt, P., Morales, X., Elsayed, A., Zhao, D., Loncaric, F., Quill, G., Ramos, M., Doltra, A., Sitges, M., Lowe, B., Young, A., Nash, M., and Camara, O.</span><br>
+</div>
+{: .text-center} 
+
+and to **Irene Mancebo-Laguna** from Universidad Carlos III de Madrid, Spain, for receiving **Best Poster Presentation** for his paper:
+
+{: .notice--success}
+<div>
+<span style="font-size:150%;">Deep Learning-Based Segmentation of 3D Left Atrial Meshes from Electroanatomical Mapping: Left Atrium Mesh Segmentation</span><br>
+<span style="font-size:125%;">Mancebo-Laguna, I., Alonso P.Á., Sánchez, R.G., Pérez, M.M., Gómez, M.A., Carta-Bergaz, A., Atienza, F., Arenal, Á., and Ríos-Muñoz G.R.</span><br>
+</div>
+{: .text-center} 
+
 #### Keynote speaker
 
 {% include Hyun %}
